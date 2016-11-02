@@ -1,0 +1,13 @@
+[{"singer":"Rita黄汐源","song":"掰掰掰(Live)"},
+{"singer":"陈小霞","song":"暗舞"},
+{"singer":"陈小霞","song":"暗舞4"},
+{"singer":"黄建为","song":"青鸟"},
+{"singer":"黄建为","song":"青鸟2"},
+{"singer":"林宥嘉","song":"我总是一个人在练习一个人"},
+{"singer":"林宥嘉","song":"我总是一个人在练习一个人aa"},
+{"singer":"刘若英","song":"一辈子的孤单"},
+{"singer":"刘若英","song":"一辈子的孤单11"},
+{"singer":"莫文蔚","song":"忽然之间"},
+{"singer":"许美静","song":"留下"},
+{"singer":"许美静","song":"留下3"}
+]
